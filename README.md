@@ -1,5 +1,5 @@
 # Ms-Chin-s-Retail-Store
-This is Ms. Chin's online retail store to purchase everyday needs
+
 '''This is the list of poducts, all products have price and quantity.
 product() stores all the items available in dictionary'''
 # Product list
